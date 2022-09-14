@@ -1,0 +1,12 @@
+{
+    "name": "sardar",
+    "lname ": "nadeem",
+    "car" : null,
+    "age" :24,
+    "hobbies": "football",
+    "friend" : {
+        "name":"mobin",
+        "age" :81,
+        "city": "peris"
+    }
+     }
